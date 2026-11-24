@@ -2,7 +2,7 @@
 
 ![Landing](./screenshot/landing.png)
 
-- **Live site** : https://muhammad-abdusalam.github.io/Elzero/
+- **Live site** : https://devmuhammadadam.github.io/Elzero/
 
 ### Built with ⚒️
 
@@ -13,4 +13,4 @@
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
